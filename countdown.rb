@@ -6,7 +6,7 @@ def countdown(count)
   count -= 1 
 if count <= 0 
   break
-  puts "HAPPY NEW YEAR!"
+  return "HAPPY NEW YEAR!"
 end
 end
 end
