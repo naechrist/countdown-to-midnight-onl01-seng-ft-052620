@@ -6,7 +6,8 @@ def countdown(count)
   count -= 1 
 if count <= 0 
   break
-return "HAPPY NEW YEAR!"
+
 end
 end
+
 end
