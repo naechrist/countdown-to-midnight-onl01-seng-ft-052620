@@ -1,5 +1,6 @@
 countdown = 10 
 
 def countdown
-  whi
+  while countdown < 10 
+  puts
 end
