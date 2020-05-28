@@ -3,9 +3,8 @@ countdown = 10
 def countdown(count)
  loop do 
   while count <= 10 
-  
+  count -= 1 
   puts "#{count} SECOND(S)!."
-  
 if count <= 0 
   break
 end
