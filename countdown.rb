@@ -9,5 +9,4 @@ if count <= 0
 end
 end
 end
-end
 puts "HAPPY NEW YEAR!"
